@@ -7,7 +7,7 @@ module.exports = {
     entry: './js/script.js',
     output: {
         filename: 'bundle.js',
-        path: __dirname + '/dist/js'
+        path: __dirname + 'dia/js'
     },
     watch: true,
     devtool: 'source-map',
